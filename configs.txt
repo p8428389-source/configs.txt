@@ -7,3 +7,4 @@ trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http
 trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%40filembad
 vless://903123fd-84fd-45d9-abc8-08c83d704224@global.cloud-play.ir:80?mode=packet-up&path=%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&type=xhttp#%40filembad
 vless://903123fd-84fd-45d9-abc8-08c83d704224@global.cloud-play.ir:80?mode=packet-up&path=%2F&security=&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&type=xhttp#%40filembad
+vless://f40ea40e-2848-44f1-b873-6040d3ca8424@104.20.7.182:443?path=%2F&security=tls&encryption=none&host=ez-dfb852.gottasub.workers.dev&fp=chrome&type=ws&sni=ez-dfb852.gottasub.workers.dev#parham
