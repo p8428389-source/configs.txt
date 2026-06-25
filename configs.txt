@@ -1,0 +1,3 @@
+trojan://MiTiVPN@151.101.110.219:443?path=%2Fde&security=tls&alpn=http%2F1.1&host=cdn2-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%40npv_proxy7
+trojan://MiTiVPN@167.82.101.251:443?path=%2Fnl%3Dmitivpn&security=tls&alpn=http%2F1.1&host=cdn-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&sni=default.ssl.fastly.net#%40npv_proxy7
+vless://1c0abb34-4313-4acb-993d-62bf52eace71@fbi.gov:443?path=%2F&security=tls&encryption=none&host=c.downloadphysics.ir&fp=chrome&type=ws&sni=c.downloadphysics.ir#%40npv_proxy7
