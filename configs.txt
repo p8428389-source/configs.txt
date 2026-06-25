@@ -3,3 +3,7 @@ trojan://MiTiVPN@167.82.101.251:443?path=%2Fnl%3Dmitivpn&security=tls&alpn=http%
 vless://1c0abb34-4313-4acb-993d-62bf52eace71@fbi.gov:443?path=%2F&security=tls&encryption=none&host=c.downloadphysics.ir&fp=chrome&type=ws&sni=c.downloadphysics.ir#%40npv_proxy7
 vless://c1d05f0a-c18c-4490-906c-42d2a20ce694@185.143.235.200:80?path=%2Farvancloud.ir&security=&encryption=none&host=taraneh.pointspeed.ir&type=ws#%40npv_proxy7
 vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=%2F&security=tls&encryption=none&host=newip.global.ssl.fastly.neT.&type=ws&sni=default.ssl.fastly.net#%40npv_proxy7
+trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%40filembad
+trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%40filembad
+vless://903123fd-84fd-45d9-abc8-08c83d704224@global.cloud-play.ir:80?mode=packet-up&path=%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&type=xhttp#%40filembad
+vless://903123fd-84fd-45d9-abc8-08c83d704224@global.cloud-play.ir:80?mode=packet-up&path=%2F&security=&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&type=xhttp#%40filembad
