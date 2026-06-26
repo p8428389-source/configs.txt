@@ -1,9 +1,9 @@
-vless://Telegramm%3AX_RAY_VPN1@91.228.227.86:2096?security=reality&encryption=none&pbk=LBY0XERNoJ_3Rxh5dqla6JAZQQ98XuDCnO97uU5B9wY&host=play.google.com&headerType=http&fp=firefox&spx=%2FBsyuVKBjaJPq7oO&type=tcp&sni=play.google.com&sid=98ed#1parham
-vless://08cfad1f-bb82-4bac-8d1d-bbe664c9c6a3@euro.cloud-play.ir:80?mode=packet-up&path=%2F&security=&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&type=xhttp#2parham
-vless://08cfad1f-bb82-4bac-8d1d-bbe664c9c6a3@mci.cloud-play.ir:80?mode=packet-up&path=%2F&security=&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&type=xhttp#3parham
-vless://08cfad1f-bb82-4bac-8d1d-bbe664c9c6a3@local.cloud-play.ir:80?mode=packet-up&path=%2F&security=&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&type=xhttp#4parham
-vless://08cfad1f-bb82-4bac-8d1d-bbe664c9c6a3@global.cloud-play.ir:80?mode=packet-up&path=%2F&security=&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&type=xhttp#5parham
-vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#6parham
+trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#1parham
+vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@us.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=us.janusgate.org&sid=fda2db43cf45470f#2parham
+vless://2fed63a6-b0f2-4a8c-9614-feb12a526dcb@em2bot.amirggg.shop:23845?security=&encryption=none&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&type=tcp#3parham
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=chrome&type=tcp&sni=v3p.sabermusic.ir#4parham
+vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=%2Fv2raylink&security=tls&encryption=none&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&sni=germany4.alibaba1405.org#5parham
+vless://2fed63a6-b0f2-4a8c-9614-feb12a526dcb@em2bot.amirggg.shop:23845?security=&encryption=none&headerType=none&type=tcp#6parham
 trojan://Mitivpn@151.101.110.219:443?path=%2Fstable&security=tls&host=3-mitivpn.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#7parham
 trojan://Mitivpn@151.101.110.219:443?path=%2Fslowdns&security=tls&host=3-mitivpn.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#8parham
 trojan://Mitivpn@151.101.56.6:443?path=%2Fstable&security=tls&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#9parham
@@ -18,4 +18,4 @@ trojan://Mitivpn@151.101.56.6:443?path=%2Fboost&security=tls&host=4-4-3-mitivpn.
 trojan://Mitivpn@151.101.56.6:443?path=%2Fslowdns&security=tls&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#18parham
 trojan://Mitivpn@151.101.56.6:443?path=%2Ffast-speed&security=tls&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#19parham
 trojan://Mitivpn@151.101.110.219:443?path=%2Fboost&security=tls&host=3-mitivpn.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#20parham
-vless://ca519d0a-d626-472c-bf30-d8feaca16c44@olds-1.lubbs.de:2086?path=%2F&security=&encryption=none&host=nim-art1.mimkiscx.ir&type=httpupgrade#21parham
+trojan://Mitivpn@151.101.56.6:443?path=%2Ffastly%3Dmitivpn&security=tls&alpn=http%2F1.1&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&sni=ssl.fastly.com#21parham
