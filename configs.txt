@@ -1,9 +1,9 @@
-trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#1parham
-vless://c20bf3c0-9c82-494e-b1fe-9ab20009b5bb@cloud.spaceshuttle.ir:443?path=%2Fsecret-tunnel&security=tls&encryption=none&host=cloud.spaceshuttle.ir&fp=random&type=ws&sni=cloud.spaceshuttle.ir#2parham
+trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#1parham
+vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?path=%2F&security=tls&encryption=none&host=fancii.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#2parham
 trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#3parham
-vless://50ab6b59-4596-4b28-9440-fde9f5540514@18.153.49.40:2053?security=reality&encryption=none&pbk=oripM2rshqUJR0DlPvag-gmBHlSkZPt2KQ162fYbgFA&headerType=none&fp=chrome&spx=%2Fv2raybazi&type=tcp&sni=www.intel.com&sid=76101ace#4parham
+vless://e461afdd-7c8e-473e-815d-88b72960c6b1@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&host=fancii.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#4parham
 trojan://Mitivpn@151.101.56.6:443?path=%2F&security=tls&alpn=h2&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#5parham
-trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&host=3-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&sni=global.fastly.com#6parham
+vless://2a6fa722-b8fd-3056-cc19-e0e13478c3cc@84.32.230.201:443?path=%2Fsync&security=tls&encryption=none&host=ez-79ea5e.ezaccess1478075.workers.dev&fp=chrome&type=ws&sni=ez-79ea5e.ezaccess1478075.workers.dev#6parham
 trojan://Mitivpn@151.101.110.219:443?path=%2Fstable&security=tls&host=3-mitivpn.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#7parham
 trojan://Mitivpn@151.101.110.219:443?path=%2Fslowdns&security=tls&host=3-mitivpn.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#8parham
 trojan://Mitivpn@151.101.56.6:443?path=%2Fstable&security=tls&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#9parham
