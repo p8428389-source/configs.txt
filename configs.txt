@@ -1,7 +1,7 @@
 trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#1parham
 vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?path=%2F&security=tls&encryption=none&host=fancii.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#2parham
 trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#3parham
-vless://e461afdd-7c8e-473e-815d-88b72960c6b1@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&host=fancii.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#4parham
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@h2.garletshopino.com:2096?mode=auto&path=%2Fclud%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=firefox&type=xhttp&sni=italix.dtvialon.com#4parham
 trojan://Mitivpn@151.101.56.6:443?path=%2F&security=tls&alpn=h2&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#5parham
 vless://2a6fa722-b8fd-3056-cc19-e0e13478c3cc@84.32.230.201:443?path=%2Fsync&security=tls&encryption=none&host=ez-79ea5e.ezaccess1478075.workers.dev&fp=chrome&type=ws&sni=ez-79ea5e.ezaccess1478075.workers.dev#6parham
 trojan://Mitivpn@151.101.110.219:443?path=%2Fstable&security=tls&host=3-mitivpn.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#7parham
