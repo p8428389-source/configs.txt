@@ -11,3 +11,15 @@ vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&se
 trojan://MITIVPN@104.16.72.41:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&host=PioHosting.ir&fp=firefox&type=ws&sni=PioHosting.ir#11parham
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=firefox&type=ws&sni=kingcloud.biack.ir#12parham
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=kingcloud.biack.ir#13parham
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=firefox&type=ws&sni=kingcloud.biack.ir#14parham
+vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=a12.crowsvpn.shop&type=xhttp#15parham
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3&encryption=none&fp=firefox&type=ws&sni=kingcloud.biack.ir#16parham
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3&encryption=none&fp=firefox&type=ws&sni=kingcloud.biack.ir#17parham
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&fp=firefox&type=ws&sni=kingcloud.biack.ir#18parham
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&headerType=none&type=tcp&sni=186.190.211.188#19parham
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D%23TELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr%3Fed%3D512&security=tls&alpn=h3&encryption=none&fp=firefox&type=ws&sni=kingcloud.biack.ir#20parham
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=%2Fsea&security=tls&encryption=none&host=imblo.fastcitylab-byte.info&type=ws&sni=imblo.fastcitylab-byte.info#21parham
+trojan://jZKsbuRpEB@45.130.125.2:443?path=%2Fdb&security=tls&host=sl.farxmode.ir&fp=firefox&type=ws&sni=sl.farxmode.ir#22parham
+trojan://kZSruDyvxP@45.130.125.2:443?path=%2Fda&security=tls&host=sk.farxmode.ir&fp=firefox&type=ws&sni=sk.farxmode.ir#23parham
+vless://c524fa8a-c431-44bb-9a1b-9a12324254e4@83.228.251.119:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=4e590fdc#24parham
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.193:443?path=%2FLiL%3Fed%3D512&security=tls&alpn=h3&encryption=none&fp=firefox&type=ws&sni=kingcloud.biack.ir#25parham
