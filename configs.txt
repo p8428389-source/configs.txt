@@ -1,4 +1,4 @@
 vless://3b715892-8610-4fdc-9086-647b36af5443@html.iranpood.com:2086?mode=auto&path=%2F%3Fed%3D2082&security=&encryption=none&host=h.cafearen.ir&type=xhttp#1PARHAM%E2%9A%A1%EF%B8%8F%F0%9F%9A%80%F0%9F%9B%A1
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@104.16.72.208:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=firefox&type=ws&sni=kingcloud.biack.ir#2PARHAM%E2%9A%A1%EF%B8%8F%F0%9F%9A%80%F0%9F%9B%A1
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=kingcloud.biack.ir#2PARHAM%E2%9A%A1%EF%B8%8F%F0%9F%9A%80%F0%9F%9B%A1
 trojan://MiTiVPN@velocore.co:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&host=PioHosting.ir&fp=firefox&type=ws&sni=PioHosting.ir#3PARHAM%E2%9A%A1%EF%B8%8F%F0%9F%9A%80%F0%9F%9B%A1
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=firefox&type=ws&sni=kingcloud.biack.ir#4PARHAM%E2%9A%A1%EF%B8%8F%F0%9F%9A%80%F0%9F%9B%A1-site
