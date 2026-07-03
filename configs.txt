@@ -1,4 +1,4 @@
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&fp=firefox&type=ws&sni=kingcloud.biack.ir#1PARHAM%E2%9A%A1%EF%B8%8F%F0%9F%9A%80%F0%9F%9B%A1
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=kingcloud.biack.ir#2PARHAM%E2%9A%A1%EF%B8%8F%F0%9F%9A%80%F0%9F%9B%A1
+vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@tr3.vidora4k.ir:80?path=%2F&security=&encryption=none&host=play.google.com&type=ws#1PARHAM%E2%9A%A1%EF%B8%8F%F0%9F%9A%80%F0%9F%9B%A1
+vless://0819f3e7-99dc-4efa-8c47-a32c25e498fa@45.130.125.201:443?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&host=zeus-panel-zon58s.netizo123.workers.dev&fp=ios&type=ws&sni=zeus-panel-zon58s.netizo123.workers.dev#2PARHAM%E2%9A%A1%EF%B8%8F%F0%9F%9A%80%F0%9F%9B%A1
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.130:443?path=%2F&security=tls&alpn=h3&encryption=none&fp=firefox&type=ws&sni=kingcloud.biack.ir#3PARHAM%E2%9A%A1%EF%B8%8F%F0%9F%9A%80%F0%9F%9B%A1
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=firefox&type=ws&sni=kingcloud.biack.ir#4PARHAM%E2%9A%A1%EF%B8%8F%F0%9F%9A%80%F0%9F%9B%A1-site
